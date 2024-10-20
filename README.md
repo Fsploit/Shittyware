@@ -233,12 +233,12 @@ Window:Resize(Library.SizeLibrary.Default) -- UDim2
 
 # Example Code
 ```lua
-local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Acrylic/refs/heads/main/source'))();
+local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Fsploit/Shittyware/refs/heads/main/Source'))();
 
 --Library.Theme:Houston()
 
 local Window = Library:CreateWindow({
-	Title = 'Acrylic - '..Library.Version..' '..Library.TextEffect:AddColor('by 4lpaca',Color3.fromRGB(0, 255, 238)),
+	Title = 'Acrylic fleuent - '..Library.Version..' '..Library.TextEffect:AddColor('by Catsus & Fsploit',Color3.fromRGB(0, 255, 238)),
 	Logo = "rbxassetid://7733920644",
 });
 
