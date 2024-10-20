@@ -1,18 +1,18 @@
-# Acrylic
+# Acrylic fluent
 This UI fluent shitty ware
 - [Discord](https://discord.gg/fluxusz)
 
 - Why choose?
 
-1. It cool ðŸ˜Ž
+1. It cool 
 2. fleuent 
-3. support mobile ðŸ˜Ž
-4. nothing âœ…
+3. support mobile 
+4. nothing
 
 ![Screenshot 2024-10-15 193045](https://github.com/user-attachments/assets/04d94fd1-b5be-4dd0-8ebb-e9bee932e05d)
 ## Create Library
 ```lua
-local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Acrylic/refs/heads/main/source'))();
+local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Fsploit/Shittyware/refs/heads/main/Source'))();
 ```
 
 ## Themes
