@@ -1,5 +1,5 @@
 local Library = {
-	Version = 'skid.0.5',
+	Version = 'Fsploits shittyware ui fluent shit',
 	Loaded = true,
 	Discord = 'discord.gg/kfZKGeWyhc',
 	env = getgenv or getfenv,
