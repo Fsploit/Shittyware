@@ -1,8 +1,10 @@
+local table{(
 local Fluxus_Z_loader = true
-local Synapse_loader = true
-local Delta_loader = true
+local Synapse_loader = false
+local Delta_loader = false
 local Codex_loader = false
-
+    })
+        
 if fluxus_Z_loader = true 
     then do
         print("fluxus&hwid")
