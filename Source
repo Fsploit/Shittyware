@@ -1,7 +1,7 @@
 local Library = {
 	Version = 'Fsploits shittyware ui fluent shit',
 	Loaded = true,
-	Discord = 'discord.gg/kfZKGeWyhc',
+	Discord = 'discord.gg/fluxusz',
 	env = getgenv or getfenv,
 	Executor = {"s","w","z","t","a","c"},
 	Skid = true,
